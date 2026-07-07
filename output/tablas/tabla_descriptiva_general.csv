@@ -1,0 +1,8 @@
+variable,media,mediana,minimo,maximo,desvio
+empleo_oede,6586618.6,6606995,6246240,6813266,148759.92
+puestos_anr,5072.23,4994.58,4368.87,5791.28,425.51
+puestos_ar,10846.47,10783.7,10468.82,11294.02,242.49
+tasa_informalidad,0.32,0.32,0.29,0.34,0.01
+var_ia_empleo_oede,0.7,0.33,-2.69,5.33,2.43
+var_ia_puestos_anr,5.19,2.73,-7.39,42.23,9
+var_ia_puestos_ar,0.89,0.61,-2,3.67,1.77

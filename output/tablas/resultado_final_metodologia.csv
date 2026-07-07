@@ -1,0 +1,6 @@
+indicador,valor
+Brecha promedio en crisis,2.11
+Brecha promedio en no crisis,0.89
+Diferencia crisis - no crisis,1.22
+P-valor test de medias,0.2146
+P-valor regresión simple,0.202
